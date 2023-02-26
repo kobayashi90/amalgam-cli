@@ -1,5 +1,5 @@
 # Amalgam CLI
-Small CLI Download Tool written in Go to Download Episodes from amalgam-fansubs.moe or Music from detektiv-conan.ch.
+Small CLI Download Tool written in the Go Language to Download Episodes from amalgam-fansubs.moe or Music from detektiv-conan.ch. 
 Rewritten from the Original Repository: [Amalgam Detektiv Conan Downloader](https://gitlab.com/mauamy/amalgamdetektivconandownloader).
 
 # Installation
